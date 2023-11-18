@@ -8,6 +8,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    font-size: 60px;
+    
+    
 }
 
 .container {
@@ -16,4 +19,5 @@ body {
 
 .typing-text {
     font-weight: bold;
+    line-height: 10rem;
 }
